@@ -160,7 +160,7 @@ footer p{
 
  .matome p{font-size: 10px;}
  .matome h1{padding-top: 5px;}
- .menu p{font-size: 5px;}
+ .menu p{font-size: 7px;}
  .left{display: none;}
  .res{border-left: solid 2px white;}
 
@@ -192,14 +192,14 @@ footer p{
  .nakami4{margin-bottom: 30px;}
 
  .midashi1 h1{font-size: 25px;}
- .small-midashi2 h1{font-size: 30px;}
+ .small-midashi2 h1{font-size: 25px;}
  h2{font-size: 20px;}
  p{font-size: 15px;}
  .massage{font-size: 18px;}
 
  button{
    font-size: 20px;
-   width: 130px;
+   width: 140px;
    height: 35px;
  }
  }
