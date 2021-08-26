@@ -161,9 +161,7 @@ footer p{
  .matome p{font-size: 10px;}
  .matome h1{padding-top: 5px;}
  .menu p{font-size: 7px;}
- .left{display: none;}
- .res{border-left: solid 2px white;}
-
+    
  .window{
    margin-left: 15%;
    margin-right: 15%;
@@ -198,9 +196,9 @@ footer p{
  .massage{font-size: 18px;}
 
  button{
-   font-size: 20px;
+   font-size: 15px;
    width: 140px;
-   height: 35px;
+   height: 30px;
  }
  }
 
