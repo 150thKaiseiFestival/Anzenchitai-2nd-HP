@@ -88,6 +88,8 @@ p{
 
 .massage{
   text-align: center;
+  font-family: "HuiFont29" ,"sans-serif";
+  font-size: 23px;
 }
 
 button{
@@ -148,4 +150,63 @@ footer{
 footer p{
   color: white;
   font-size: 10px;
+}
+
+
+@media screen and (max-width: 480px){
+ footer{height: 50px;}
+ footer img{width: 10%;
+  height: 10%;}
+
+ .matome p{font-size: 10px;}
+ .matome h1{padding-top: 5px;}
+ .menu p{font-size: 5px;}
+ .left{display: none;}
+ .res{border-left: solid 2px white;}
+
+ .window{
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 30px;
+ }
+
+ .window p{
+    width: 100%;
+ }
+
+ .content{
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-top: 30px;
+   padding-bottom: 25px;
+ }
+
+ .content2{
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-top: 30px;
+   padding-bottom: 25px;
+ }
+
+ .nakami3{margin-bottom: 30px;}
+ .nakami4{margin-bottom: 30px;}
+
+ .midashi1 h1{font-size: 25px;}
+ .small-midashi2 h1{font-size: 30px;}
+ h2{font-size: 20px;}
+ p{font-size: 15px;}
+ .massage{font-size: 18px;}
+
+ button{
+   font-size: 20px;
+   width: 130px;
+   height: 35px;
+ }
+ }
+
+ @font-face {
+  font-family: 'HuiFont29';
+  src: url('HuiFont29.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
